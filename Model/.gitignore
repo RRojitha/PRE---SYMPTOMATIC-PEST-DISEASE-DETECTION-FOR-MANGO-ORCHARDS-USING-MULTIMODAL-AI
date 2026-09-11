@@ -1,0 +1,26 @@
+# Python
+.venv/
+venv/
+__pycache__/
+.vscode/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# Python environment
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# TensorFlow checkpoints (optional)
+outputs/logs/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,33 @@
+.result-card{
+
+    margin-top:30px;
+
+    background:white;
+
+    border-radius:15px;
+
+    padding:25px;
+
+    box-shadow:0 10px 20px rgba(0,0,0,.08);
+
+}
+
+.result-card h2{
+
+    margin-bottom:20px;
+
+    color:#2e7d32;
+
+}
+
+.row{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    margin:15px 0;
+
+    font-size:18px;
+
+}
